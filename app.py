@@ -24,4 +24,4 @@ if __name__ == "__main__":
   print("subtraction:",subtract(40,10))
   print("multiplication:",multiply(6,4))
   print("\n Exectuting automated tests..\n")
-  unittest.main(argv=['first-arg-is-ignored'],exit=false)
+  unittest.main(argv=['first-arg-is-ignored'],exit=False)
